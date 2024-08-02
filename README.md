@@ -44,5 +44,5 @@ Connect the components as follows:
     - Anode (longer leg) to pin 13
     - Cathode (shorter leg) to GND (with a 220 ohm resistor)
 
-![Wiring Diagram](path/to/your/image.png)
+![Wiring Diagram](https://github.com/GAT301-2024/Traffic-light/blob/main/schematic_for_traffic_light.png)
 
